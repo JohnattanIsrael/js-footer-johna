@@ -1,0 +1,25 @@
+{
+  "name": "js-footer-johna",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for js aplications with aun updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnattanIsrael/js-footer-johna.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "johnattan <johnattanisraelangeles@gmail.com> (https://www.npmjs.com/~johnattan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnattanIsrael/js-footer-johna/issues"
+  },
+  "homepage": "https://github.com/JohnattanIsrael/js-footer-johna#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
